@@ -1,9 +1,8 @@
 
 
-# coding=utf-8
 
-# obfuscated with plusobf: https://github.com/1921681002
 
+# run install.sh first!
 
 
 
