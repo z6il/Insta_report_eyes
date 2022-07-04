@@ -5,4 +5,4 @@ pkg install python3 -y
 chmod +x *
 clear
 pip install -r requirements.txt
-python report_eyes.py
+
