@@ -5,3 +5,5 @@ ssl
 imaplib
 time
 base64
+pyfiglet
+termcolor
