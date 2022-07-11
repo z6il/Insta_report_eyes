@@ -1,8 +1,5 @@
 requests
 json
-smtplib
-ssl
-imaplib
 time
 base64
 pyfiglet
