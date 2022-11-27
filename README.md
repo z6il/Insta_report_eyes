@@ -19,6 +19,20 @@ bash install.sh
 bash start.sh
 ```
 
+for rooted Devices
+
+```bash
+su
+apt update && apt upgrade
+apt install git python-pip
+git clone https://github.com/z6il/Insta_report_eyes
+cd Insta_report_eyes
+bash install.sh
+sudo python report_eyes.py
+```
+
+
+
 ### How to execute using Linux
 
 * It's pretty straightforward
@@ -32,15 +46,3 @@ cd Insta_report_eyes
 bash install.sh
 bash start.sh
 ```
-#for rooted Devices
-
-```bash
-su
-apt update && apt upgrade
-apt install git python-pip
-git clone https://github.com/z6il/Insta_report_eyes
-cd Insta_report_eyes
-bash install.sh
-sudo python report_eyes.py
-```
-
