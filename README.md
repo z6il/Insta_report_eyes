@@ -8,7 +8,7 @@ Instagram report sent by python script
 ```bash
 pkg update
 
-pkg install git neovim python3
+pkg install git python3
 
 git clone https://github.com/z6il/Insta_report_eyes
 
@@ -22,12 +22,15 @@ bash start.sh
 for rooted Devices
 
 ```bash
-su
 apt update && apt upgrade
+
 apt install git python-pip
+
 git clone https://github.com/z6il/Insta_report_eyes
 cd Insta_report_eyes
+
 bash install.sh
+
 sudo python report_eyes.py
 ```
 
