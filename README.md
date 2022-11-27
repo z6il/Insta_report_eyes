@@ -31,4 +31,7 @@ git clone https://github.com/AKhilRaghav0/Insta_report_eyes
 cd Insta_report_eyes
 bash install_debian.sh
 bash start.sh
+OR for rooted Devices
+sudo python report_eyes.py
+
 ```
